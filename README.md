@@ -6,3 +6,4 @@ List of workshops:
 * [Intro to Deep Computer Vision](./IntroCV/)
 * [Market Basket Analysis in Python](./Market-Basket-Analysis/)
 * [Tweet Sentiment Analysis](./Tweet-Sentiment-Analysis/)
+* [NLP Part 2](./NLP-Part2/)
